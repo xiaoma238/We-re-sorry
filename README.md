@@ -14,4 +14,3 @@ How to download software?
 A: We have another website. The website has been notified within the group. You can see the website in the group.
 What happens if your 2333 music player is not up-to-date?
 A: Although you can use the old version, it may not be supported, or there may be some errors, vulnerabilities, etc. We strongly recommend that you use</p>
-</html>
